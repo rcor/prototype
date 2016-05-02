@@ -1,0 +1,39 @@
+/*-- General Styles --*/
+
+
+/*-- Header Styles --*/
+
+
+/*-- Body Styles --*/
+
+
+.selected{
+		color: orange;
+}
+.node {
+		position: absolute;
+		list-style: none;
+		cursor: default;
+}
+.node span {
+		margin-right: 3px;
+}
+
+.node .caret {
+		font-size: 10px;
+}
+
+
+
+ul, ol {
+list-style:none;
+}
+.nav li a {
+text-decoration:none;
+padding:5px 10px:
+display:block;
+}
+.nav > li {
+float:left;
+}
+/*-- Footer Styles --*/
